@@ -1,5 +1,4 @@
-# GIS-in-Forestry-Practice
-# 🌲 Forest GIS Workflows
+# 🌲 GIS-in-Forestry-Practice
 
 A collection of tools, workflows, and examples demonstrating how **Geographic Information Systems (GIS)** can be applied in forestry for **sustainable management, research, and decision-making**.
 

@@ -17,7 +17,7 @@ This repository provides **practical, reproducible** GIS techniques using open-s
 
 ## 🛠 Technologies
 
-- **Desktop GIS:** ArcGIS  
+- **Desktop GIS:** ArcGIS, R-Studio
 - **Libraries:** GDAL/OGR, Python (`geopandas`, `rasterio`, `shapely`)  
 - **Data:** Open geospatial datasets ( LiDAR, GPS Coordinates )
 

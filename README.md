@@ -22,8 +22,12 @@ This repository provides **practical, reproducible** GIS techniques using open-s
 
 ---
 
-## 📂 Repository Structure
+## 📝 Description
+Trees with very large crown areas are very few, and most of the trees fall into the smaller crown areas.  
+That is why the mean crown area and the mean crown diameter are also small.  
 
+Applying different segmentation algorithms on tree crown polygons, the result was the best fitting segmentation algorithm for the above set of trees is **li2012**.  
+After trying out multiple values for the window size, the resulting conclusion was that with assigning a minimum height value of **15** and window sizes from **5 to 11**, we get segmentation results that fit tree crown polygons.  
 ![LAGHARI](https://github.com/user-attachments/assets/1da379a9-0469-491d-8be5-b571ab729fcb)
 
 ---
